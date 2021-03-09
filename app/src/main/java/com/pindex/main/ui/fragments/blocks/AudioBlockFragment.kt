@@ -44,57 +44,7 @@ class AudioBlockFragment : Fragment(R.layout.fragment_pindex_block_audio) {
         buttonView.setOnClickListener {
 
             // First click: setup the media player
-            if (mediaPlayer == null) {
-
-                // Display the loading text
-                setAudioText(resources.getString(R.string.loading))
-
-                mediaPlayer = MediaPlayer().apply {
-
-                    // When the audio file is ready
-                    setOnPreparedListener {
-                        setPauseIcon()
-                        // Display the audio name back
-                        setAudioText(audioName)
-
-                        start()
-                    }
-
-                    // When the audio file ends
-                    setOnCompletionListener {
-                        setPlayIcon()
-                    }
-
-                    // Setup the audio player
-                    setAudioAttributes(
-                            AudioAttributes.Builder()
-                                    .setContentType(AudioAttributes.CONTENT_TYPE_MUSIC)
-                                    .setUsage(AudioAttributes.USAGE_MEDIA)
-                                    .build()
-                    )
-
-                    // Audio file URL
-                    setDataSource(arguments?.getString(Constants.BlockFragmentArguments.AUDIO_BLOCK_AUDIO_PATH))
-
-                    // To avoid blocking the UI: MediaPlayer.OnPreparedListener is called when ready
-                    prepareAsync()
-                }
-            }
-            // Media Player already setup: play/pause
-            else {
-                mediaPlayer?.let {
-                    // Pause
-                    if (it.isPlaying) {
-                        setPlayIcon()
-                        it.pause()
-                    }
-                    // Play
-                    else {
-                        setPauseIcon()
-                        it.start()
-                    }
-                }
-            }
+            
         }
     }
 

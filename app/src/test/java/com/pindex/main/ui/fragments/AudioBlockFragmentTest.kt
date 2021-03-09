@@ -1,5 +1,6 @@
 package com.pindex.main.ui.fragments
 
+import android.media.MediaPlayer
 import androidx.appcompat.widget.AppCompatButton
 import androidx.appcompat.widget.AppCompatImageView
 import com.pindex.main.R
@@ -18,6 +19,8 @@ class AudioBlockFragmentTest {
 
         val buttonView = block.view?.findViewById<AppCompatButton>(R.id.pindex_block_audio_button)
         assertEquals(buttonView?.text, null)
+
+
     }
 
 }
