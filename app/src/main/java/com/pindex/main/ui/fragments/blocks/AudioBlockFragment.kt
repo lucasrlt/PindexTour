@@ -44,7 +44,7 @@ class AudioBlockFragment : Fragment(R.layout.fragment_pindex_block_audio) {
         buttonView.setOnClickListener {
 
             // First click: setup the media player
-            
+
         }
     }
 
