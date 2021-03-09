@@ -3,35 +3,35 @@
 3    package="com.pindex.main.test" >
 4
 5    <uses-sdk
-5-->/home/dawnk/Documents/android/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger1604287697706501443.xml:5:5-74
+5-->/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3401210245509037604.xml:5:5-74
 6        android:minSdkVersion="21"
-6-->/home/dawnk/Documents/android/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger1604287697706501443.xml:5:15-41
+6-->/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3401210245509037604.xml:5:15-41
 7        android:targetSdkVersion="30" />
-7-->/home/dawnk/Documents/android/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger1604287697706501443.xml:5:42-71
+7-->/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3401210245509037604.xml:5:42-71
 8
 9    <instrumentation
-9-->/home/dawnk/Documents/android/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger1604287697706501443.xml:11:5-15:65
+9-->/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3401210245509037604.xml:11:5-15:65
 10        android:name="com.pindex.main.TestRunner"
-10-->/home/dawnk/Documents/android/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger1604287697706501443.xml:11:22-63
+10-->/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3401210245509037604.xml:11:22-63
 11        android:functionalTest="false"
-11-->/home/dawnk/Documents/android/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger1604287697706501443.xml:14:22-52
+11-->/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3401210245509037604.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/home/dawnk/Documents/android/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger1604287697706501443.xml:13:22-53
+12-->/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3401210245509037604.xml:13:22-53
 13        android:label="Tests for com.pindex.main"
-13-->/home/dawnk/Documents/android/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger1604287697706501443.xml:15:22-63
+13-->/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3401210245509037604.xml:15:22-63
 14        android:targetPackage="com.pindex.main" />
-14-->/home/dawnk/Documents/android/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger1604287697706501443.xml:12:22-61
+14-->/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3401210245509037604.xml:12:22-61
 15
 16    <uses-permission android:name="android.permission.REORDER_TASKS" />
 16-->[androidx.test:core:1.3.0] /home/dawnk/.gradle/caches/transforms-2/files-2.1/39795007dfa79ac5cf92a201aa64d3e2/jetified-core-1.3.0/AndroidManifest.xml:24:5-72
 16-->[androidx.test:core:1.3.0] /home/dawnk/.gradle/caches/transforms-2/files-2.1/39795007dfa79ac5cf92a201aa64d3e2/jetified-core-1.3.0/AndroidManifest.xml:24:22-69
 17
 18    <application android:debuggable="true" >
-18-->/home/dawnk/Documents/android/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger1604287697706501443.xml:7:5-9:19
-18-->/home/dawnk/Documents/android/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger1604287697706501443.xml:7:18-43
+18-->/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3401210245509037604.xml:7:5-9:19
+18-->/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3401210245509037604.xml:7:18-43
 19        <uses-library android:name="android.test.runner" />
-19-->/home/dawnk/Documents/android/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger1604287697706501443.xml:8:9-60
-19-->/home/dawnk/Documents/android/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger1604287697706501443.xml:8:23-57
+19-->/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3401210245509037604.xml:8:9-60
+19-->/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3401210245509037604.xml:8:23-57
 20
 21        <activity
 21-->[androidx.test:core:1.3.0] /home/dawnk/.gradle/caches/transforms-2/files-2.1/39795007dfa79ac5cf92a201aa64d3e2/jetified-core-1.3.0/AndroidManifest.xml:27:9-33:20

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/dawnk/Documents/android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pa/values-pa.xml",
+            "outputFile": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pa/values-pa.xml",
             "map": [
                 {
                     "source": "/home/dawnk/.gradle/caches/transforms-2/files-2.1/8e37f59d0dfc75c178aafd14193a4ecb/core-1.5.0-alpha01/res/values-pa/values-pa.xml",
