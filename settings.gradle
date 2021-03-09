@@ -1,5 +1,5 @@
 include ':app'
-rootProject.name = "SDP Bootcamp"
+rootProject.name = "Pindex"
 
 ext.isCiServer = System.getenv().containsKey("CIRRUS_CI")
 ext.isDefaultBranch = System.getenv()["CIRRUS_BRANCH"] == "main"

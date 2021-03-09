@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/font_montserrat_regular.otf.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/font/montserrat_regular.otf"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/font_montserrat_medium.otf.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/font/montserrat_medium.otf"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/layout_fragment_pindex_block_section_title.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/fragment_pindex_block_section_title.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_pause.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/drawable/ic_baseline_pause.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_play_arrow.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/drawable/ic_baseline_play_arrow.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/font_montserrat_black.otf.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/font/montserrat_black.otf"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/font_montserrat_semibold.otf.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/font/montserrat_semibold.otf"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/layout_fragment_pindex_block_big_header.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/fragment_pindex_block_big_header.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/font_montserrat_thin.otf.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/font/montserrat_thin.otf"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/layout_fragment_pindex_block_audio.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/fragment_pindex_block_audio.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/layout_activity_experience.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/activity_experience.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/font_montserrat_light.otf.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/font/montserrat_light.otf"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/layout_fragment_experiences_list.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/fragment_experiences_list.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/font_montserrat_extrabold.otf.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/font/montserrat_extrabold.otf"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/font_montserrat_bold.otf.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/font/montserrat_bold.otf"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/layout_fragment_pindex_block_borderless_image.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/fragment_pindex_block_borderless_image.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/layout_fragment_pindex_block_text.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/fragment_pindex_block_text.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/font_montserrat_extralight.otf.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/font/montserrat_extralight.otf"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/res/merged/debug/layout_experiences_list_item_row.xml.flat",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/experiences_list_item_row.xml"
+    }
+]

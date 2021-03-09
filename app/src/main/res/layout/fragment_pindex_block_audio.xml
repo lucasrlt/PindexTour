@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/pindex_block_audio_fragment"
+    android:layout_marginHorizontal="@dimen/default_padding"
+    android:layout_marginBottom="@dimen/block_audio_margin_bottom">
+
+    <!-- CardView is useful to apply a border radius and an elevation -->
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="6dp"
+        android:elevation="10dp">
+
+        <!-- Background image -->
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/pindex_block_audio_image"
+            android:foreground="@color/semi_black_overlay"/>
+
+        <!-- Icon + text -->
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/pindex_block_audio_button"
+            android:background="@android:color/transparent"
+            android:gravity="left|center_vertical"
+            android:fontFamily="@font/montserrat_semibold"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:drawableLeft="@drawable/ic_baseline_play_arrow"
+            android:drawablePadding="5dp"
+            iconGravity="textStart"/>
+
+    </androidx.cardview.widget.CardView>
+
+</FrameLayout>

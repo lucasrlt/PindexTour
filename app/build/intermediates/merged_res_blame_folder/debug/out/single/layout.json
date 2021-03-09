@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_pindex_block_big_header.xml",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/fragment_pindex_block_big_header.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/experiences_list_item_row.xml",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/experiences_list_item_row.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_pindex_block_audio.xml",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/fragment_pindex_block_audio.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_pindex_block_section_title.xml",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/fragment_pindex_block_section_title.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_pindex_block_borderless_image.xml",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/fragment_pindex_block_borderless_image.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_experience.xml",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/activity_experience.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_pindex_block_text.xml",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/fragment_pindex_block_text.xml"
+    },
+    {
+        "merged": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_experiences_list.xml",
+        "source": "/home/dawnk/AndroidStudioProjects/SDPBootcamp/app/src/main/res/layout/fragment_experiences_list.xml"
+    }
+]
